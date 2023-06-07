@@ -2,13 +2,13 @@
 # Theme Customization #
 #######################
 
-title: shlog                        # used in <title> tag & site header
+title: SUHYEON                          # used in <title> tag & site header
 author: JUNG SUHYEON                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   안녕하세요! 정수현입니다 :)
-slogan: Showtime!                           # used in site header, beside title
+slogan: log !                         # used in site header, beside title
 avatar: /i/walwal2.jpg                       # used as portrait in site header
-banner: /i/mountains.svg                    # used as background in site header
+banner: /i/banner.jpg                    # used as background in site header
 url: http://walwaljj.github.io             # used by plugins to generate feed.xml and sitemap.xml
 baseurl: ''                                 # prepended to all absolute filepaths
 repo: https://github.com/walwaljj/walwaljj.github.io.git # used in footer
@@ -34,21 +34,21 @@ nav_menu:
 
 # Objects listed here will appear on the /projects.html page.
 projects:
-  - title: Solana
-    teaser: A responsive blog template written in Sass and vanilla JavaScript.
-    url: https://github.com/rlue/jekyll-solana
-    role: Creator
-    category: Frontend Dev
-  - title: Cortana
-    teaser: A talking robot. Now available on Google Play?
-    url: https://play.google.com/store/apps/details?id=com.microsoft.cortana
-    role: Core Team
-    category: NLP
-  - title: Rihanna
-    teaser: Possibly another robot. Also available on Google Play.
-    url: https://play.google.com/store/music/artist/Rihanna?id=Arcw2m2ih45qntv3fufub25tyhu
-    role: Contributor
-    category: Algorithmic Composition
+  - title: TippingPoint
+    teaser: 
+    url: https://github.com/walwaljj/TippingPoint.git
+    role: 
+    category: 
+  # - title: 2
+  #   teaser: A talking robot. Now available on Google Play?
+  #   url: https://play.google.com/store/apps/details?id=com.microsoft.cortana
+  #   role: Core Team
+  #   category: NLP
+  # - title: 3
+  #   teaser: Possibly another robot. Also available on Google Play.
+  #   url: https://play.google.com/store/music/artist/Rihanna?id=Arcw2m2ih45qntv3fufub25tyhu
+  #   role: Contributor
+  #   category: Algorithmic Composition
 
 #################
 # Site Settings #
